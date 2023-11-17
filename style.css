@@ -1,6 +1,10 @@
 body {
     text-align: center;
-    background-image: linear-gradient(to right,#ee3131,#f142e3);
+    background-image:url(src/skybackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    /*linear-gradient(to right,#191970,#2F4F4F)*/
 }
 .CocoButton{
     display: inline;
@@ -26,3 +30,8 @@ a {
     color: #ffbb00;
     text-decoration: none;
 }
+
+p { 
+    background-color: rgba(173, 166, 166, 0.3);
+}
+ 
