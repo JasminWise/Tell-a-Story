@@ -1,5 +1,6 @@
-h1 {
-    color: blue;
+body {
+    text-align: center;
+    background-image: linear-gradient(to right,#ee3131,#f142e3);
 }
 .CocoButton{
     display: inline;
@@ -21,7 +22,7 @@ h1 {
     color: #fff6de;
     border: 2px solid #fff6de;
 }
-body {
-    text-align: center;
-    background-image: linear-gradient(to right,#ee3131,#f142e3);
+a {
+    color: #ffbb00;
+    text-decoration: none;
 }
