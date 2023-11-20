@@ -9,20 +9,21 @@ body {
 .CocoButton{
     display: inline;
     margin: 2px;
-    border: 2px solid #ffbb00;
-    background: #e94f44;
-    color: #ffbb00;
+    border: 2px solid #ffffff;
+    background: #aaaaaa50;
+    color: #d1d1d1;
     font-size: 16px;
     line-height: 22px;
     border-radius: 30px;
     transition: all 200ms ease;
-    box-shadow: rgba(0, 0, 0, 0.08) 0px 8px 8px 0;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 8px 8px 0;
     cursor: pointer;
     width: 150px;
     height: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+
 .CocoButton:hover {
     background-color: #ee00e2;
     color: #ffffff;
@@ -33,8 +34,17 @@ a {
     text-decoration: none;
 }
 
+h1{
+    font-family: monospace;
+    color: seashell;
+    font-size: bold;
+}
+
 p { 
     background-color: rgba(173, 166, 166, 0.3);
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
 }
 .nosifer:hover{
     background-color: #2b1d01;
