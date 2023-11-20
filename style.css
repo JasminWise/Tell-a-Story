@@ -10,7 +10,7 @@ body {
     display: inline;
     margin: 2px;
     border: 2px solid #ffbb00;
-    background: #e93428;
+    background: #e94f44;
     color: #ffbb00;
     font-size: 16px;
     line-height: 22px;
@@ -18,12 +18,14 @@ body {
     transition: all 200ms ease;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 8px 8px 0;
     cursor: pointer;
-    width: 100px;
+    width: 150px;
     height: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
 .CocoButton:hover {
-    background-color: #ff46f0;
-    color: #fff6de;
+    background-color: #ee00e2;
+    color: #ffffff;
     border: 2px solid #fff6de;
 }
 a {
@@ -34,4 +36,10 @@ a {
 p { 
     background-color: rgba(173, 166, 166, 0.3);
 }
- 
+.nosifer:hover{
+    background-color: #2b1d01;
+    color: #c70000;
+    border: 2px solid #fff6de;
+    font-family: 'Nosifer', sans-serif;
+    font-size: small;
+}
