@@ -1,10 +1,11 @@
+/*Sophia*/
 body {
     text-align: center;
     background-image:url(src/skybackground.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    /*linear-gradient(to right,#191970,#2F4F4F)*/
+    
 }
 .CocoButton{
     display: inline;
@@ -34,12 +35,14 @@ a {
     text-decoration: none;
 }
 
+/*Sophia*/
 h1{
     font-family: monospace;
     color: seashell;
     font-size: bold;
 }
 
+/*Sophia*/
 p { 
     background-color: rgba(173, 166, 166, 0.3);
     border-radius: 20px;
